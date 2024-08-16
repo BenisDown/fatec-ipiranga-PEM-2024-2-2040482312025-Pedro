@@ -1,0 +1,3 @@
+O problema em questão é que existem vários testes com quantidade de perguntas diferentes entre si.
+Além do fato que é necessário eliminar a maior nota e a menor nota para poder depois calcular as notas que ficaram.
+E por último, calcular as notas de cada teste para fazer o resultado final dos candidatos.

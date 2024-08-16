@@ -1,0 +1,5 @@
+A melhor maneira de resolver e automatizar o sistema de notas é criar um programa onde:
+1- na primeira linha seja colocado o número de questoes a serem analisadas, onde o numero de perguntas a serem analisadas seja maior que 2;
+2- na segunda linha sejam colocadas as notas de cada questão, onde sejam separadas as notas por um espaço , e que esta linha seja terminada assim que o numero de notas seja igual ao numero da primeira linha, ou seja, a diferença deve ser igual a zero.
+3- Após serem colocadas as notas de todas as questoes de todas as areas, deve se somar as notas que não foram eliminadas para dar as notas finais de todos os assuntos de teste;
+4- Por fim, somar as notas finais dos assuntos para dar a nota final do candidato.

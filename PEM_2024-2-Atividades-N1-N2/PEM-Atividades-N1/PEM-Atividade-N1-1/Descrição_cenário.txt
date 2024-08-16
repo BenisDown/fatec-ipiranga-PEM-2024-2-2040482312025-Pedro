@@ -1,0 +1,1 @@
+Pode-se entender que encontramos um cenário onde será necessário criar um programa com o objetivo de automatizar a leitura e compilação das notas de testes.
